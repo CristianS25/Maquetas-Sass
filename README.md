@@ -28,7 +28,11 @@
 <p> Al usar el preprocesador Sass, obtenemos una mayor facilidad al momento de diseñar nuestro sitio web, con ayuda de este preprocesador podemos crear variables, estilos,  mixing, entre otras ayudas de diseño; esto con el fin de evitar el desgaste, ya que al realizar una modificación en CSS, debemos modificar todos los archivos CSS, por otro lado, con el preprocesador Sass, solamente necesitamos modificar una variable, ahorrandonos tiempo y evitando el desgaste.</p>
 <br />
 <img src="https://user-images.githubusercontent.com/102183213/165349299-63824f62-8f1b-43b0-a1b3-38c601d4f3a4.png" alt="Ejemplo" width="500px" heigth="auto">
+<br />
 6. Maquetas
-- Maqueta N°1
+<br />
+- Maquea N°1
+<br />
 Maqueta en tamaño largo
+
 
