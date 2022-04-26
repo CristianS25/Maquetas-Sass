@@ -16,7 +16,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToS8jnzPZ6MAUIjDWUGRh92ZySt4TZABT6HA&usqp=CAU" alt="Página responsive" width="500px" heigth="auto">
 <br />
 3. ¿En qué consiste el proyecto?
-<p> El proyecto está direccionado a la creación de páginas responsive en HTML5 y CSS3 con ayuda de Bootstrap </p>
+<p> El proyecto está direccionado a la creación de páginas responsive en HTML5, Bootstrap y el preprocesador Sass </p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwrmlEqMmGZUvo-Av4wb-wG6famkrCZwLxUw&usqp=CAU" alt="Proyecto" width="500px" heigth="auto">
 <br />
 4. Maquetación
