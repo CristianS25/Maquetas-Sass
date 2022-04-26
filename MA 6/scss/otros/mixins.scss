@@ -1,3 +1,4 @@
+//Mixing para modificar el height por un valor de 50px//
 @mixin contenido-largo($valor) {
     height: $largo*$valor;
 }
