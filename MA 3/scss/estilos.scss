@@ -1,0 +1,61 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+//@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "../libs/scss/bootstrap";
+
+// Then add additional custom code here
+
+@import "otros/variables";
+@import "otros/mixins";
+
+
+//apartado de borde para cada objeto
+.cont1, .cont2, .cont3{
+    border: solid 2px black;
+}
+
+//include usado para definir los estilos de cada objeto en tamaño small
+@include media-breakpoint-up (xs) {
+    header{
+        @include contenido-largo(3);
+        background-color: $background-color1-xs;
+        border: solid 2px black;
+    }
+    article{
+        @include contenido-largo(3);
+        background-color: $background-color2-xs;
+        border: solid 2px black;
+    }
+
+    footer{
+        @include contenido-largo(3);
+        background-color: $background-color3-xs;
+        border: solid 2px black;
+    }
+
+}
+
+//include usado para definir los estilos de cada objeto entamaño medium 
+@include media-breakpoint-up (md) {
+    header{
+        @include contenido-largo(3);
+        background-color: $background-color1-md;
+        border: solid 2px black;
+    }
+    article{
+        @include contenido-largo(3);
+        background-color: $background-color2-md;
+        border: solid 2px black;
+    }
+
+    footer{
+        @include contenido-largo(3);
+        background-color: $background-color3-md;
+        border: solid 2px black;
+    }
+
+}

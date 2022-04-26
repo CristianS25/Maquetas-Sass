@@ -1,0 +1,106 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+//@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "../libs/scss/bootstrap";
+
+// Then add additional custom code here
+@import "otros/variables";
+@import "otros/mixins";
+
+//modificación del fondo de la página
+body {
+    background-color: $fondo;
+}
+
+//modificacion del container principal
+.container {
+    width: $ancho100;
+    height: 100vh;
+}
+
+//establecer el tamaño del logo
+.logo {
+    width: 130px;
+}
+
+//Diseño de la barra de navegación, con base CSS
+nav {
+    width: $width-nav;
+    margin: $margin;
+    padding: 35px 0;
+    display: flex;
+    align-items: $alineacion-prin;
+    justify-content: space-between;
+}
+
+nav ul li {
+    list-style: $estilos;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+nav ul li a {
+    text-decoration: $estilos;
+    color: $color-text;
+    font-family: Roboto, "sans-serif";
+    font-size: 1.2rem;
+}
+
+nav ul li::before {
+    content: "";
+    height: 3px;
+    width: 0%;
+    background: $linea-nav;
+    position: absolute;
+    left: 0;
+    bottom: -11px;
+    transition: 0.2s ease-out;
+}
+
+nav ul li:hover::before{
+    width: $ancho100;
+}
+
+//alineación del article 
+article {
+    display: flex;
+    flex-direction: row;
+}
+
+//Modificacion de las imagenes y el texto de la página
+#imgprin {
+    background-color: $fondo;
+    text-align: $alineacion-prin;
+    width: $ancho500;
+    height: $height;
+    display: flex;
+    margin: 10px;
+}
+
+#imgsec {
+    background-color: $fondo;
+    text-align: $alineacion-prin;
+    width: $ancho100;
+    height: $height;
+    display: flex;
+}
+
+#text {
+    background-color: $fondo;
+    text-align: $alineacion-prin;
+    width: 400px;
+    height: $height;
+}
+//Estilos de las imagenes del apartado inferior de la página
+#img1, #img2, #img3, #img4 {
+    background-image: $fondo;
+    text-align: $alineacion-prin;
+    width: $img270;
+    display: flex;
+    height: $height;
+}

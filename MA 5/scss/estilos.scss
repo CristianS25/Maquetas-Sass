@@ -1,0 +1,94 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+//@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "../libs/scss/bootstrap";
+
+// Then add additional custom code here
+
+
+@import "otros/variables";
+@import "otros/mixins";
+
+//include usado para definir los estilos de cada objeto en tamaño small
+@include media-breakpoint-up (xs) {
+    header{
+        @include contenido-largo(3);
+        background-color: $background-color1-xs;
+        border: solid 2px black;
+    }
+
+    #obj1{
+        @include contenido-largo(3);
+        background-color: $background-color01-xs;
+        border: solid 2px black;
+    }
+
+    #obj2{
+        @include contenido-largo(3);
+        background-color: $background-color02-xs;
+        border: solid 2px black;
+    }
+
+    #obje1, #obje2, #obje3, #obje4, #obje5, #obje6, #obje7, #obje8, #obje9, #obje10 {
+        @include contenido-largo(3);
+        background-color: $background-color2-xs;
+        border: solid 2px black;
+    }
+
+    footer{
+        @include contenido-largo(3);
+        background-color: $background-color3-xs;
+        border: solid 2px black;
+    }
+
+}
+
+//include usado para definir los estilos de los objetos en tamaño medium
+@include media-breakpoint-up (md) {
+    header{
+        @include contenido-largo(3);
+        background-color: $background-color1-md;
+        border: solid 2px black;
+    }
+    aside{
+        @include contenido-largo(9);
+        background-color: $background-color2-md;
+        border: solid 2px black;
+    }
+
+    #obj1{
+        @include contenido-largo(3);
+        background-color: $background-color01-md;
+        border: solid 2px black;
+    }
+
+    #obj2{
+        @include contenido-largo(3);
+        background-color: $background-color02-md;
+        border: solid 2px black;
+    }
+
+    #obje1, #obje2, #obje3, #obje4, #obje5, #obje6, #obje7, #obje8, #obje9, #obje10 {
+        @include contenido-largo(3);
+        background-color: $background-color3-md;
+        border: solid 2px black;
+    }
+
+    footer{
+        @include contenido-largo(3);
+        background-color: $background-color4-md;
+        border: solid 2px black;
+    }
+
+}
+
+//funcion para "desaparecer" el aside de la página, siguiendo un criterio de tamaño
+@media (max-width: 766px ){
+    aside {
+        display: none;
+    }
+}

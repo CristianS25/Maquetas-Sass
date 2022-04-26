@@ -1,0 +1,47 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+//@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../libs/scss/bootstrap";
+// Then add additional custom code here
+@import "otros/mixin.scss";
+@import "otros/_variables.scss";
+
+
+//include usado para determinar los colores de cada objeto en tamaño small
+@include media-breakpoint-up (xs) {
+    #objeto1{
+        @include contenido-largo(3);
+        background-color: $background-color1-xs;
+    }
+    #objeto2{
+        @include contenido-largo(3);
+        background-color: $background-color2-xs;
+    }
+
+    #objeto3{
+        @include contenido-largo(3);
+        background-color: $background-color3-xs;
+    }
+
+}
+
+//include usado para determinar los colores de cada objeto en tamaño medium en adelante
+@include media-breakpoint-up (md) {
+    #objeto1{
+        @include contenido-largo(3);
+        background-color: $background-color1-md;
+    }
+    #objeto2{
+        @include contenido-largo(3);
+        background-color: $background-color2-md;
+    }
+
+    #objeto3{
+        @include contenido-largo(3);
+        background-color: $background-color3-md;
+    }
+
+}
