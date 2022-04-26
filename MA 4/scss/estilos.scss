@@ -29,7 +29,7 @@
     }
 
     #objeto4{
-        @include contenido-largo(3);
+        @include contenido-largo(6);
         background-color: $background-color4-xs;
     }
     
@@ -56,7 +56,7 @@
     }
 
     #objeto4{
-        @include contenido-largo(3);
+        @include contenido-largo(6);
         background-color: $background-color4-md;
     }
 
