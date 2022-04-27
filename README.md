@@ -33,6 +33,40 @@
 <br />
 - Maquea N°1
 <br />
-Maqueta en tamaño largo
-
-
+Maqueta en tamaño largo-mediano
+<img src="https://user-images.githubusercontent.com/102183213/165412617-eea1ae37-e924-40eb-8b9a-4a3e640140d4.png">
+Maqueta en tamaño pequeño
+<img src="https://user-images.githubusercontent.com/102183213/165412658-1405b543-b65f-4c57-b169-5a770ec77bc8.png">
+<br />
+- Maqueta N°2
+Maqueta en tamaño largo-mediano
+<img src="https://user-images.githubusercontent.com/102183213/165412728-8971a75e-1e65-4428-a4d0-821674025a48.png">
+Maqueta en tamaño pequeño
+<img src="https://user-images.githubusercontent.com/102183213/165412687-a9a78a78-e94c-4cc8-b423-ef0dc6e2faa7.png">
+<br />
+- Maqueta N°3
+Maqueta en tamaño largo-mediano
+<img src="https://user-images.githubusercontent.com/102183213/165412758-98f5370b-cba7-4a4a-b6c9-9f8d625e305f.png">
+Maqueta en tamaño pequeño
+<img src="https://user-images.githubusercontent.com/102183213/165412797-1d9fe0f9-e661-4c26-96dc-83920eb45c19.png">
+<br />
+- Maqueta N°4
+Maqueta en tamaño largo-mediano
+<img src="https://user-images.githubusercontent.com/102183213/165413792-377c52b7-50f5-42dc-aa29-9b38dadaa94d.png">
+Maqueta en tamaño pequeño
+<img src="https://user-images.githubusercontent.com/102183213/165412848-898b4796-3449-48a5-8c86-55ef41484aec.png">
+<img src="https://user-images.githubusercontent.com/102183213/165412896-52695d04-a93a-4490-b80c-583328767327.png">
+<br />
+- Maqueta N°5
+Maqueta en tamaño largo-mediano
+<img src="https://user-images.githubusercontent.com/102183213/165413878-7cd7a31c-bce3-40b6-a78d-814311cc36d4.png">
+Maqueta en tamaño pequeño
+<img src="https://user-images.githubusercontent.com/102183213/165413920-d1418dce-e040-4b30-b69c-9d3fc324a9e5.png">
+<img src="https://user-images.githubusercontent.com/102183213/165413954-6976aa01-9184-409b-8b9a-02da78c23916.png">
+<br />
+- Maqueta N°6
+Maqueta en tamaño largo-mediano
+<img src="">
+Maqueta en tamaño pequeño
+<img src="">
+<br />
