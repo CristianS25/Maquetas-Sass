@@ -68,5 +68,7 @@ Maqueta en tamaño pequeño
 Maqueta en tamaño largo-mediano
 <img src="">
 Maqueta en tamaño pequeño
-<img src="">
+<img src="https://user-images.githubusercontent.com/102183213/165414050-bea5fdd6-1a9c-41d3-ab68-aca08255cfec.png">
+<img src="https://user-images.githubusercontent.com/102183213/165414103-eea9a338-c849-4d19-9291-e1ca10eec7b4.png">
+<img src="https://user-images.githubusercontent.com/102183213/165414151-56045a07-a7bd-46fc-ac5d-f93887f72283.png">
 <br />
