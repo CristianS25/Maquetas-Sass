@@ -66,7 +66,7 @@ Maqueta en tamaño pequeño
 <br />
 - Maqueta N°6
 Maqueta en tamaño largo-mediano
-<img src="">
+<img src="https://user-images.githubusercontent.com/102183213/165414966-36b6ca18-f671-4345-8a7c-3c1954b71593.png">
 Maqueta en tamaño pequeño
 <img src="https://user-images.githubusercontent.com/102183213/165414050-bea5fdd6-1a9c-41d3-ab68-aca08255cfec.png">
 <img src="https://user-images.githubusercontent.com/102183213/165414103-eea9a338-c849-4d19-9291-e1ca10eec7b4.png">
